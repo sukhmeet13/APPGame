@@ -9,7 +9,7 @@ package com.r.model;
  * @author Raghav verma
  * @version 1.0.0.0
  */
-public class Edge implements Comparable {
+public class Edge implements Comparable  {
 	private static int counter = 0;
 	private int id;
 	private int countryId1;
@@ -34,7 +34,7 @@ public class Edge implements Comparable {
 	/**
 	 * This method returns the id of the first country
 	 * 
-	 * @return countryId1, which is integer, the id of the first country
+	 * @return countryId1, which is a integer, and it will provide the id of the first country
 	 */
 	public int GetCountryId1() {
 		return this.countryId1;

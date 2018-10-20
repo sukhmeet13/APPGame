@@ -7,7 +7,7 @@ import java.util.List;
  * This class represents continent which handles data variables like name, id,control and
  * playerId. this class has methods which can change the state of object.
  * 
- * @author Raghav verma
+ * @author Sukhmeet Kaur 
  * @version 1.0.0.0
  */
 

@@ -32,7 +32,7 @@ public class Edge implements Comparable  {
 	}
 
 	/**
-	 * This method returns the id of the first country
+	 * This method returns the value of id of the first country
 	 * 
 	 * @return countryId1, which is a integer, and it will provide the id of the first country
 	 */

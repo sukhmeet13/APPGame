@@ -4,6 +4,7 @@ package com.r.model;
  * 
  */
 
+
 /**
  * package com.risk.model;
  * 

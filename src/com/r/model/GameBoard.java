@@ -14,7 +14,7 @@ import com.r.utility.TurnPhases;
  * This class represents the game board as a Singleton .
  * it maintains the list of
  * players as well as the map.
- * it provides all objects and methods needed for
+ * It  provides the all objects and methods needed for
  * presentation the game.
  * 
  * @author Raghav verma

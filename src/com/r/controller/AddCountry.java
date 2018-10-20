@@ -30,12 +30,12 @@ public class AddCountry extends JFrame implements ActionListener {
 	JPanel panel;
 	JFrame frame;
 	JLabel lblContinentName, lblCountryName, banner;
-	JTextField txtCountryName, txtContinentName;
-	JButton buttonOK, buttonCancel;
+	JTextField txtCountryName, txtContinentName ;
+	JButton buttonOK, buttonCancel ;
 
 	/**
 	 * Causes a new window to Pop-up. This window then asks the user to select the
-	 * name of Continent from a list, the X and Y cordinates, and the country name
+	 * name of Continent from a list, the X and Y cordinates and the country name
 	 * to be added.
 	 * 
 	 * @param actionEvent
